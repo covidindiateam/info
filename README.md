@@ -1,5 +1,35 @@
 Note: Anyone reading this page is welcome to share the page and repo with anyone.
 
+# Tested Positive or suspect Covid?
+
+## AIIMS, Delhi Covid Guide
+
+https://github.com/covidindiateam/info/blob/master/aiims-icmr.jpg
+
+### Drugs Recommended by AIIMS
+
+#### Monoclonal Antibody Therapy
+
+##### India
+India uses Alzumab-L Itolizumab from Bioncon, India - this is a monoclonal antibody compound 
+
+##### U.S. 
+
+In the U.S. monoclonal antibody has been approved by the FDA EUA (Emergency Use Authorization). Two compounds used in the U.S. are listed below.
+
+bamlanivimab and etesevimab made by Lilly (a pharma company)
+
+casirivimab and imdevimab, trade name: REGN-COV2 and made by Regeneron Pharmaceuticals
+
+
+## Covid Testing sites
+
+https://www.icmr.gov.in/pdf/covid/labs/archive/COVID_Testing_Labs_28042021.pdf
+
+## Track Vaccinations
+
+ https://geographicinsights.iq.harvard.edu/IndiaVaccine
+
 # Resources
 
 ## Bengalru
