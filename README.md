@@ -125,7 +125,7 @@ https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR
 
 # Oxygen
 
-## Oxygen Supple Chain List
+## Oxygen Supply Chain List
 
 https://github.com/hesingh/iitcovidtaskforce/blob/master/Oxygen-supply-chain-list.pdf
 
