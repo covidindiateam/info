@@ -224,7 +224,7 @@ Nagpur
 
 http://nsscdcl.org/covidbeds/AvailableHospitals.jsp
 
-Nashik
+Nasik
 
 https://covidnashik.com
 
@@ -254,7 +254,7 @@ https://covidtnadu.com
 
 https://stopcorona.tn.gov.in/beds.php
 
-Beed, Maharashtra:
+Maharashtra:
 
 https://covidbeed.com
 
