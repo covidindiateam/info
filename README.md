@@ -6,14 +6,12 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 https://github.com/covidindiateam/info/blob/master/aiims-icmr.jpg
 
-### Drugs Recommended by AIIMS
+### Monoclonal Antibody Therapy
 
-#### Monoclonal Antibody Therapy
-
-##### India
+#### India
 India uses Alzumab-L Itolizumab from Bioncon, India - this is a monoclonal antibody compound. 
 
-##### U.S. 
+#### U.S. 
 
 In the U.S. monoclonal antibody has been approved by the FDA for EUA (Emergency Use Authorization). Two compounds used in the U.S. are listed below.
 
