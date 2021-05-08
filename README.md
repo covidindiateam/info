@@ -11,11 +11,11 @@ https://github.com/covidindiateam/info/blob/master/aiims-icmr.jpg
 #### Monoclonal Antibody Therapy
 
 ##### India
-India uses Alzumab-L Itolizumab from Bioncon, India - this is a monoclonal antibody compound 
+India uses Alzumab-L Itolizumab from Bioncon, India - this is a monoclonal antibody compound. 
 
 ##### U.S. 
 
-In the U.S. monoclonal antibody has been approved by the FDA EUA (Emergency Use Authorization). Two compounds used in the U.S. are listed below.
+In the U.S. monoclonal antibody has been approved by the FDA for EUA (Emergency Use Authorization). Two compounds used in the U.S. are listed below.
 
 bamlanivimab and etesevimab made by Lilly (a pharma company)
 
