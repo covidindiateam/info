@@ -59,7 +59,7 @@ Relevant Google Doc with List of COVID related resources like Oxygen and Hospita
 https://docs.google.com/spreadsheets/u/0/d/1ZmTJVfJvpjaMWs0NUalVXMbSOr6DrdmXvX51RxTDUNY/htmlview#
 
 
-# U.S Docs Consulting to India
+# U.S Docs Consulting for Free
 
 An effort by American Association of Physicians of Indian Origin and Sewa International.  Patients from any part of India can get face to face free consultation with doctors, regarding COVID, by signing up through the link above.  This is an effort to relieve the strain on Indian medical system.
 
