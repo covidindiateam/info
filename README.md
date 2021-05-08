@@ -44,6 +44,16 @@ https://dshm.delhi.gov.in/mis/(S(ubqejlxuy0y50aowcrdaimg3))/Private/frmFreeBedMo
 
 Gurudwara Rakabganj Sahib (Delhi) ready with 250 Oxygen Beds. Contact No: 09818883337
 
+## Attempts for real-time tracking of resources
+
+https://bhiksha.github.io/IndiaCovidResources/
+
+https://www.covidsos.live/app/index.html
+
+https://covidbedsindia.in/
+
+https://indiacovidresources.in/
+
 ## Various COVID-19-related pan-India resources maintained by IIM-A 1992 
 
 https://docs.google.com/spreadsheets/u/0/d/15VMySHSAQAAcxx-QBtxG5o-mJYeVMdVhtgCu0H5J_CA/htmlview#
