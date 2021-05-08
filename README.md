@@ -119,6 +119,10 @@ Passcode:
 
 We will have daily zoom calls starting today 730pm PST, i.e. 8am IST starting Tues May 4 (india time) - zoom link to join is tiny.cc/iitcvteam - those who can help and need help - please both groups come
 
+# Get Masks, PPE in India
+
+https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR
+
 # Oxygen
 
 ## Oxygen Supple Chain List
@@ -193,10 +197,6 @@ https://www.oxygendirect.com/home-oxygen/caire-companion-5-eco-oxygen-concentrat
 ## Medical Oxygen
 
 https://www.indiacovidresponse.com/medical-oxygen
-
-# Get Masks, PPE in India
-
-https://www.amazon.in/Kawach-Start-up-Reusable-Washable-protective/dp/B08944XVZR
 
 # Plasma
 
