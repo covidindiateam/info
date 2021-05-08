@@ -1,6 +1,6 @@
 Note: Anyone reading this page is welcome to share the page and repo with anyone.
 
-# Tested Positive or suspect Covid?
+# Tested positive or suspect Covid?
 
 ## AIIMS, Delhi Covid Guide
 
