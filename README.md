@@ -2,6 +2,10 @@ Note: Anyone reading this page is welcome to share the page and repo with anyone
 
 # Resources
 
+## Bengalru
+
+https://covidbengaluru.com/
+
 ## Delhi
 
 ### Beds
